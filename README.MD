@@ -1,7 +1,7 @@
 # Regresi Linier (Linear Regression) menggunakan NumPy
 
 Regresi Linier digunakan untuk menganalisis hubungan antara data (fitur) dengan 
-targetnya (label)
+targetnya (label).
 
 ## Contoh Kasus
 
@@ -34,11 +34,11 @@ Tentu akan membuat prediksinya kurang akurat. Untuk itu kita perlu menggunakan a
 
 ## Keterangan File
 1. `linear_regression.ipynb`: Berisi proses langkah-langkah Regresi Linier dan Gradient Descent.
-2. `linear_regression.py`: Berisi modul Regresi Linier yang mengacu ke file nomor 1
+2. `linear_regression.py`: Berisi modul Regresi Linier yang mengacu ke file nomor 1.
 3. `compare_using_boston_data.ipynb`: Perbandingan hasil pemrosesan menggunakan module dari file nomor 2 dan module dari 
-   sklearn menggunakan `boston_data`
+   sklearn menggunakan `boston_data`. Serta cara melakukan `predict`.
 4. `compare_using_diabetes_data.ipynb`: Perbandingan hasil pemrosesan menggunakan module dari file nomor 2 dan module dari 
-   sklearn menggunakan `diabetes_data`
+   sklearn menggunakan `diabetes_data`. Serta cara melakukan `predict`.
    
 ## Referensi
 1. https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-5485abc9f2e4
