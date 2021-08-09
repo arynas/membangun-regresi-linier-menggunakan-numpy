@@ -1,0 +1,11 @@
+!.gitignore
+.idea
+__pycache__
+*.pyc
+*__pycache__*
+*.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.zip
+.ipynb_checkpoints
