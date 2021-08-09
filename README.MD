@@ -43,3 +43,6 @@ Tentu akan membuat prediksinya kurang akurat. Untuk itu kita perlu menggunakan a
 ## Referensi
 1. https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-5485abc9f2e4
 2. https://towardsdatascience.com/linear-regression-from-scratch-with-numpy-implementation-finally-8e617d8e274c
+
+## Lisensi
+Seluruh kode sumber dari proyek ini dibawah naungan lisensi GNU General Public License Version 3 (GPL v3): cek [`LICENSE`](./LICENSE).
